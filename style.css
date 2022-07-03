@@ -1,0 +1,104 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    background-color: skyblue;
+    padding: 20px 0px;
+    margin: 0;
+}
+#blog1{
+    width: 80%;
+    background-color: aliceblue;
+    padding: 20px;
+   margin: 20px auto;
+   border: 5px solid salmon;
+   border-radius: 20px;
+}
+.africa{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace; 
+}
+small{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 900;
+    display: block;
+    text-align: center;
+    padding: 15px 0px;
+
+}
+.author{
+    color: rgb(227, 0, 0);
+}
+.africap{
+    text-align: justify;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    border: 6px solid yellowgreen;
+    border-radius: 15px;
+}
+
+
+#blog2 {
+    width: 80%;
+    background-color: rgb(167, 227, 165);
+    padding: 20px;
+    margin: 20px auto;
+    border: 5px solid salmon;
+    border-radius: 20px;
+}
+
+.mountain {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+.mi{
+        display: block;
+            margin: 0 auto;
+            width: 30%;
+            border: 6px solid rgb(238, 70, 126);
+            border-radius: 15px;
+}
+.mountainp {
+    text-align: justify;
+    font-size: 18px;
+}
+
+
+#blog3 {
+    width: 80%;
+    background-color: rgba(225, 176, 251, 0.852);
+    padding: 20px;
+    margin: 20px auto;
+    border: 5px solid rgb(254, 205, 114);
+    border-radius: 20px;
+}
+
+.sunset {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.si {
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    border: 6px solid rgb(92, 235, 99);
+    border-radius: 15px;
+}
+
+.sunsetp {
+    text-align: justify;
+    font-size: 18px;
+}
